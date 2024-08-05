@@ -8,7 +8,7 @@ Translation Service
 Установка и запуск
 1. Клонируйте репозиторий
 bash
-git clone https://github.com/your-username/translation_service.git
+git clone https://github.com/olya807/com.translation.service.git
 cd translation_service
 2. Настройте базу данных
 Создайте базу данных и таблицу для хранения запросов перевода. Пример SQL-запроса для создания таблицы:
